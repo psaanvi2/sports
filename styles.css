@@ -1,0 +1,30 @@
+html,body{      
+background-color: deepskyblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+h1{
+
+font-size: 80px;
+color: dodgerblue;
+text-shadow: 3px 3px 5px black;
+
+}
+
+a:link{
+color: cadetblue;
+text-decoration: none;
+}
+
+a:visited{
+color: blueviolet;
+}
+   
+a:hover {
+text-shadow: 2px 2px 3px black;
+
+}
+
+
